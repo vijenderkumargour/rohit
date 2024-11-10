@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rohit/static/css/main.e650a64f.css",
+    "main.js": "/rohit/static/js/main.2c76b723.js",
+    "static/js/453.b9f0a0fd.chunk.js": "/rohit/static/js/453.b9f0a0fd.chunk.js",
+    "static/media/footer-ten-bg.jpg": "/rohit/static/media/footer-ten-bg.d679c0f034015e8e7663.jpg",
+    "static/media/volunteers-bg.jpg": "/rohit/static/media/volunteers-bg.3eba592190eaf4fb8c88.jpg",
+    "static/media/gallery-3.jpg": "/rohit/static/media/gallery-3.740e0ef4fe01a8da5fea.jpg",
+    "static/media/bg-right.png": "/rohit/static/media/bg-right.32ae21e7b94b47d5fd67.png",
+    "index.html": "/rohit/index.html",
+    "main.e650a64f.css.map": "/rohit/static/css/main.e650a64f.css.map",
+    "main.2c76b723.js.map": "/rohit/static/js/main.2c76b723.js.map",
+    "453.b9f0a0fd.chunk.js.map": "/rohit/static/js/453.b9f0a0fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e650a64f.css",
+    "static/js/main.2c76b723.js"
+  ]
+}
